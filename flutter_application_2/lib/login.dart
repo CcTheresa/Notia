@@ -26,13 +26,45 @@ class _LoginState extends State<Login> {
         email: email.text,
         password: password.text,
       );
+      // ✅ Success — navigate to home or show success message
+      Get.snackbar(
+        "Success",
+        "Logged in successfully!",
+        snackPosition: SnackPosition.BOTTOM,
+        backgroundColor: Colors.green.withOpacity(0.8),
+        colorText: Colors.white,
+      );
     } on FirebaseAuthException catch (e) {
-      Get.snackbar("Error", e.code);
+      // Handle specific Firebase errors with user-friendly messages
+      String errorMessage = '';
+
+      if (e.code == 'user-not-found') {
+        errorMessage =
+            'No account found with this email. Please sign up first.';
+      } else if (e.code == 'wrong-password') {
+        errorMessage = 'Incorrect password. Please try again.';
+      } else if (e.code == 'invalid-email') {
+        errorMessage = 'Invalid email address format.';
+      } else if (e.code == 'user-disabled') {
+        errorMessage = 'This account has been disabled.';
+      } else if (e.code == 'invalid-credential') {
+        errorMessage =
+            'Invalid credentials. Please check your email and password or sign up.';
+      } else {
+        errorMessage = 'Login failed: ${e.message}';
+      }
+      Get.snackbar("Error", errorMessage);
     } catch (e) {
-      Get.snackbar("Error", e.toString());
+      Get.snackbar(
+        "Error",
+        "An unexpected error occurred. Please try again.",
+        snackPosition: SnackPosition.BOTTOM,
+        backgroundColor: Colors.red.withOpacity(0.8),
+        colorText: Colors.white,
+      );
     }
     setState(() {
-      isloading = true;
+      isloading = false;
     });
   }
 
