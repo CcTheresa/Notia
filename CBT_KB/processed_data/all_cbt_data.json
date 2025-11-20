@@ -5915,5 +5915,686 @@
     ],
     "type": "core_belief_fine",
     "text": "Situation: Last year was incredibly difficult for me, marked by a series of traumatic events including the breakup of a 4-year relationship, experiencing rape, and the loss of two close friends. The pain was overwhelming, but at some point, I seemed to shut down emotionally as a defense mechanism. Now, even though time has passed, I find myself stuck in this numb state, unable to feel anything. This emotional numbness has become a barrier preventing me from expressing love or connecting with others, despite my desire to do so\n\nThoughts: I should get over this but I am stubborn and hard headed and cannot do anything normal.\nI an crazy and broken, nothing will help me.\nI will never love or have connection in my life.\n\nClassification: ['I am powerless, weak, vulnerable', 'I am a victim', 'I am defective', 'I am unlovable', 'I am undesirable, unwanted', 'I am bound to be alone', 'I am worthless, waste']\n\nType: core_belief_fine"
+  },
+  {
+    "id": "advice_001",
+    "type": "therapeutic_advice",
+    "issue": "catastrophizing",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "nervousness",
+      "fear"
+    ],
+    "advice_text": "As with all cognitive distortions, there's no way to completely get rid of catastrophic thinking or prevent yourself from getting stuck in this common trap. But there are many ways to lessen the impact of catastrophizing and improve how you feel. Building awareness and recognition: If you're more aware of catastrophic thinking and can notice when it's shaping your thoughts, you can try to shift your perspective. Mindfulness practice is one effective way to improve this awareness. Estimating the likelihood of outcomes more realistically: The most concerning potential outcomes aren't always the most likely. Focusing on the most likely outcomes, rather than the worst ones, can help reduce feelings of anxiety and dread. Thinking through how you can handle the worst 'what ifs': Letting yourself thoughtfully consider how you might cope if the worst does come true can make you feel more able to handle that situation if it actually comes up. Changing your thinking isn't always easy to do, but cognitive-behavioral therapy (CBT) has proven strategies that can help you break out of catastrophic thinking."
+  },
+  {
+    "id": "advice_002",
+    "type": "therapeutic_advice",
+    "issue": "catastrophizing",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "nervousness",
+      "fear"
+    ],
+    "advice_text": "Simply noticing and identifying when catastrophizing is happening is a good place to start. You can label catastrophic thoughts by telling yourself 'I'm having the thought that I am a failure' rather than embracing 'I am a failure'. You can give names to thoughts that keep repeating themselves, such as 'This is my I'm a failure story', and even sing them or say them in a funny voice to try to drain their power. After identifying a catastrophic thought, it may help to replace it with a more realistic thought, such as 'This is going to take more time and energy, which is frustrating' instead of 'I won't be able to get this done'. To handle catastrophizing about the future, think through the most plausible consequences. Ask yourself: How bad would it really be? Would it really be something you couldn't recover from? A future problem can be significantly unpleasant without amounting to a disaster. You can also envision yourself coping with what you worry will happen, reflecting on resources and strengths you've used before. Getting sufficient sleep and engaging in physical activities may also help."
+  },
+  {
+    "id": "advice_003",
+    "type": "therapeutic_advice",
+    "issue": "catastrophizing",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "embarrassment"
+    ],
+    "advice_text": "For example, someone who is prone to catastrophizing may assume that a friend who doesn't text them back right away is angry at them, potentially leading them to withdraw socially, lash out at the friend, ruminate, or otherwise behave in a non-productive way. Using CBT, they may learn to recognize their tendency to jump to the worst possible conclusion. The next time their friend does not return their text, they can remind themselves that the friend has always returned texts in the past and may simply be busy. Such reframing can help someone refrain from engaging in counterproductive behavior. CBT is rooted in the present, so the approach is to identify life situations, thoughts, and feelings that cause distress, then explore whether these thoughts and feelings are productive or even valid. The goal is to understand that the way to improve your life is to adjust your thinking and your approach to everyday situations."
+  },
+  {
+    "id": "advice_004",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "act_foundation",
+    "emotions": [
+      "nervousness",
+      "embarrassment",
+      "sadness",
+      "confusion"
+    ],
+    "advice_text": "Acceptance and Commitment Therapy (ACT) teaches that it's counterproductive to try to control or suppress painful emotions. Instead of avoiding, denying, or struggling with your inner emotions, you can learn to accept that these deeper feelings are appropriate responses to certain situations and should not prevent you from moving forward in your life. We as a culture seem to be dedicated to the idea that negative human emotions need to be fixed, managed, or changed, but ACT helps you understand that acceptance, mindfulness, and values are key psychological tools for transformation. By accepting your hardships and committing to making necessary changes in your behavior regardless of how you feel, you can eventually change your attitudes and emotional states. The theory is that suppression of difficult feelings ultimately leads to more distress, so valid alternatives include mindful behavior, attention to personal values, and commitment to action."
+  },
+  {
+    "id": "advice_005",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "act_six_processes",
+    "emotions": [
+      "sadness",
+      "disappointment",
+      "confusion"
+    ],
+    "advice_text": "ACT aims to develop psychological flexibility through six core processes: 1) Acceptance - acknowledging and embracing the full range of your thoughts and emotions rather than avoiding them. 2) Cognitive Defusion - distancing yourself from distressing thoughts by observing them without judgment, singing them, or labeling automatic responses. 3) Being Present - practicing mindfulness in the present moment, observing thoughts and feelings without judging or trying to change them. 4) Self as Context - understanding that you are more than your thoughts, feelings, and experiences. 5) Values - choosing personal values in different life domains and striving to live according to those principles rather than avoiding distress or meeting others' expectations. 6) Committed Action - taking concrete steps to align with your values through goal setting, exposure to difficult experiences, and skill development. These processes work together to help you develop emotional openness and adapt your thoughts and behaviors to better align with your values and goals."
+  },
+  {
+    "id": "advice_006",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "act_practical_application",
+    "emotions": [
+      "disappointment",
+      "sadness",
+      "nervousness",
+      "insecurity"
+    ],
+    "advice_text": "In ACT, you learn to listen to your own self-talk, especially about traumatic events, problematic relationships, physical limitations, or other challenges. You can then decide if a problem requires immediate action and change, or if it can or must be accepted for what it is while you learn to make behavioral changes that can modify the situation. Look at what hasn't worked for you in the past and stop repeating thought patterns and behaviors that cause more problems in the long run. Once you have faced and accepted your current challenges, you can make a commitment to stop fighting your past and your emotions. Instead, start practicing more confident and optimistic behavior based on your personal values and goals. Remember: experiencing difficult emotions doesn't mean something is wrong - it may just mean you're uncomfortable with necessary change. Don't confuse uncomfortable with wrong."
+  },
+  {
+    "id": "advice_007",
+    "type": "therapeutic_advice",
+    "issue": "worthlessness",
+    "sub_type": "intrinsic_value_and_detachment",
+    "emotions": [
+      "sadness",
+      "grief",
+      "disappointment",
+      "disgust"
+    ],
+    "advice_text": "In fulfilling our deepest potential, the greatest rewards come less from outcomes and more from who we must become in order to achieve what we know we are truly capable of. When you feel worthless, remember that you are more than your achievements, your productivity, or what you produce. Your worth is intrinsic - it exists simply because you exist. Self-development is often mistaken as something we do to become someone else, but the truth is: the person you are now is already capable of greatness. You don't need to rely on a future version of yourself to make your life better. This capacity is already within your reach. As Rumi said, 'Look inside yourself; everything that you want, you already are.' Instead of attributing your worth only to tangible results or external validation, recognize that who you are becoming through your experiences is where true value lies. The climb isn't about reaching the top - it's about becoming the person who belongs there. Your worth isn't determined by outcomes; it's inherent in your journey of growth and self-discovery."
+  },
+  {
+    "id": "advice_008",
+    "type": "therapeutic_advice",
+    "issue": "worthlessness",
+    "sub_type": "reframing_self_talk",
+    "emotions": [
+      "sadness",
+      "grief",
+      "disappointment",
+      "disgust"
+    ],
+    "advice_text": "Words shape identity. When you repeatedly tell yourself 'I'm worthless,' 'I'm not good enough,' or 'I'll never succeed,' your mind believes what you repeat. To truly heal, you need to change the way you think and become very conscious of negative and false beliefs, then start shifting to a mindset that actually serves you. Challenge these thoughts: Just because your brain thinks something doesn't mean it's true. If your brain tells you 'No one likes you,' challenge it by thinking about your friends who care about you and your family that loves you. Practice self-compassion: Think about how you would act if a friend shared that they felt worthless. You would probably encourage them and remind them of all the ways they are valued and loved. Try turning that same kindness on yourself. Set small, achievable goals: If feelings of worthlessness make it hard to get through the day, try setting realistic goals like washing dishes, going for a short walk, or brushing your teeth. Achieving even small goals releases dopamine and bolsters your mood. Remember: you don't need to feel ready to start healing. You just need to start."
+  },
+  {
+    "id": "advice_009",
+    "type": "therapeutic_advice",
+    "issue": "worthlessness",
+    "sub_type": "self_sabotage_awareness",
+    "emotions": [
+      "sadness",
+      "disappointment",
+      "insecurity"
+    ],
+    "advice_text": "Feelings of worthlessness often lead to self-sabotaging behaviors - not because you lack ambition, but because deep down, you might not believe you deserve good things. Self-sabotage doesn't come from weakness; it comes from wounds, often deep childhood ones. It's self-protection in disguise. Your brain might be saying 'This doesn't feel safe. We've never been here before.' If you don't consciously choose to heal, you will unconsciously choose what's familiar, even if it hurts. Take radical responsibility for the stories you tell yourself. Where are you self-sabotaging and why? Trace the emotion. Unpack the fear. Get brutally honest. You can't outgrow the identity you're still clinging to. If you want to be someone who is consistent, courageous, and valued, start acting like them today - even if it's messy. A lot of self-sabotage stems from unmet needs in childhood. Give yourself now what you didn't receive then: validation, care, structure, rest, and belief in your inherent worth. Self-sabotage is not a flaw - it's feedback telling you what needs healing."
+  },
+  {
+    "id": "advice_010",
+    "type": "therapeutic_advice",
+    "issue": "anxiety",
+    "sub_type": "fear_vs_intuition",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "sadness"
+    ],
+    "advice_text": "To listen to your instincts rather than your fears and avoid self-sabotage, you must learn how to effectively interpret and respond to your emotions. Anxiety and discomfort are what trigger fears that cause self-sabotage. When you're able to recognize the emotions you're feeling and understand why you're feeling them, you'll be better equipped to determine whether they stem from intuition or fear. The first step is to identify what you're feeling and accept it. If you try to stifle your emotions rather than letting them run their course, they'll just build up inside you, make you feel worse, and contribute to more self-sabotaging behaviors. Recognize when your thoughts or feelings are driving you toward a certain action, and take a moment to reflect. We're often subconsciously driven by our fears because they're louder and more prominent than our intuition. Fears tend to manifest when we think we know what will happen in the future, worry about something, panic, or feel pumped up with adrenaline. Ask yourself: Are you responding to someone who is in front of you, or to your idea of them in your head? Are you reacting to a situation that's playing out right now, or one you imagine? Are your feelings regarding what's happening right now or what you hope and fear will happen in the future? A gut instinct is not an oracle—it's a physiological response in the here and now. When you move away from immediate danger, you're guided by instinct. When you worry about a potential future threat, you're guided by the feeling of fear."
+  },
+  {
+    "id": "advice_011",
+    "type": "therapeutic_advice",
+    "issue": "anxiety",
+    "sub_type": "worry_as_distraction",
+    "emotions": [
+      "nervousness",
+      "sadness"
+    ],
+    "advice_text": "Worrying is chief among the coping mechanisms people use to distract themselves from what really matters. When you worry, not only do you lose energy, but you also unconsciously seek out situations in which your worrying mind will affirm itself. CBT describes worry as a mental behavior characterized by repetitive negative thinking about catastrophic future outcomes. Rather than targeting the content of worry, mindfulness exercises target the worry behavior by promoting the opposite—nonjudgmental and nonreactive present moment awareness. This facilitates greater psychological distance from negative thoughts. To reduce worry, practice bringing your attention to the present moment. This can be a very important skill for someone whose mind tends to time-travel to worry about the future. When you notice yourself worrying, label it simply as 'worrying' or 'thinking,' then gently return your focus to your breath or the present moment. Additionally, create life rules that help you manage things that cause anxiety. Make a list of things you value, feelings you want to experience regularly, and things that produce anxiety. Then create rules that will help you reach what you value, experience desired feelings, and manage anxiety triggers. For example, if financial issues cause anxiety, you might create: 'I'll set aside money each month to build security, reducing financial worry.' Remember: worry often intensifies when everything's going right, not wrong—it's your mind's alarm system checking if it's safe to get attached to something new."
+  },
+  {
+    "id": "advice_012",
+    "type": "therapeutic_advice",
+    "issue": "anxiety",
+    "sub_type": "cbt_practical_tools",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "nervousness"
+    ],
+    "advice_text": "When anxiety strikes, use these evidence-based techniques to calm your mind and body: Deep breathing exercises - slow your breath to calm your nervous system and reduce rapid heartbeat and racing thoughts. Even a few focused breaths can make anxiety feel more manageable. Progressive muscle relaxation - systematically tense and then relax different muscle groups. This releases physical tension that comes with anxiety and teaches your body to recognize when it's holding stress. Grounding techniques - bring your attention back to the here and now. Try the 5-4-3-2-1 method: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste. This stops spiraling thoughts. Cognitive restructuring - identify anxious thoughts and challenge them. Ask: Are my fears based on reality? Is this thought helping me? What's a more balanced perspective? For example, instead of 'I'll mess up and everyone will think I'm incompetent,' try 'I've prepared for this, and I have the knowledge to deliver effectively.' Activity scheduling - when anxiety makes you withdraw, schedule small rewarding activities to combat it. Start with achievable goals like a short walk, calling a friend, or engaging in a hobby. Achieving small goals releases dopamine and bolsters your mood. Remember: These techniques work best with consistent practice. Spend just five minutes daily—this builds new neural pathways that make anxiety more manageable over time."
+  },
+  {
+    "id": "advice_013",
+    "type": "therapeutic_advice",
+    "issue": "anxiety",
+    "sub_type": "resistance_and_growth",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "annoyance"
+    ],
+    "advice_text": "Resistance is often a sign you're in a cycle of self-sabotage, but it doesn't always mean something's wrong—it can be your way of slowing down and making sure it's safe to get attached to something new and important. Resistance often comes when everything's going right, not what's going wrong. It works like an alarm ensuring we're safe enough to move forward. Here's what's crucial to understand: anything that is new, even if it is good, will feel uncomfortable until it is also familiar. We are not wired to be happy; we are wired to be comfortable, and anything outside our comfort zone feels threatening until we become familiar with it. This is why positive life changes can actually trigger anxiety or depressive episodes—your mind is experiencing adjustment shock and hypervigilance, checking for threats in unfamiliar territory. Don't confuse 'uncomfortable' with 'wrong.' When you feel resistance, don't force yourself to perform in the face of it—this will only intensify the feeling and strengthen internal conflict. Instead, step back and get clear on what you want and why you want it. As Brianna Wiest says, 'Wanting is the entryway to showing up after resistance.' To create lasting change, embrace microshifts—tiny increments of change in your day-to-day life. A microshift is changing what you eat for one meal just one time, then doing it again and again until it becomes a pattern. What you do every single day accounts for the quality of your life."
+  },
+  {
+    "id": "advice_014",
+    "type": "therapeutic_advice",
+    "issue": "all_or_nothing_thinking",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "disgust",
+      "embarrassment",
+      "sadness",
+      "nervousness"
+    ],
+    "advice_text": "All-or-nothing thinking makes you evaluate yourself in extremes: perfect or terrible, success or failure. This cognitive distortion narrows your emotional bandwidth and makes progress feel invisible. Begin by identifying the pattern—notice when your mind jumps to extremes. Instead of binary categories, shift to a spectrum: very few situations in life are 0% or 100%. This shift reduces internal pressure and helps you recognize progress rather than dismissing it."
+  },
+  {
+    "id": "advice_015",
+    "type": "therapeutic_advice",
+    "issue": "all_or_nothing_thinking",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "nervousness",
+      "embarrassment",
+      "nervousness"
+    ],
+    "advice_text": "Use the 'percent rule' to challenge extremes. When you catch an all-or-nothing thought, ask: 'What percentage of this is actually true?' Break the situation into smaller components, list what went well, and identify at least one micro-improvement. Then intentionally do one task imperfectly—a message sent with one typo, a workout that’s half-length, or a draft that's not fully polished. Observe that nothing catastrophic happens. These small, safe exposures reduce the brain’s reliance on perfection as a survival strategy."
+  },
+  {
+    "id": "advice_016",
+    "type": "therapeutic_advice",
+    "issue": "all_or_nothing_thinking",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "disgust",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Extreme thought: 'If I don’t do this perfectly, I’ve failed.' Reframe: 'Perfection isn’t required for effectiveness. Progress counts even when it’s uneven.' Another example: 'I messed up once, so I ruin everything' becomes 'I made one mistake and can learn from it. One moment doesn’t define my capacity.' These reframes teach your brain to evaluate situations based on evidence rather than emotional intensity."
+  },
+  {
+    "id": "advice_017",
+    "type": "therapeutic_advice",
+    "issue": "all_or_nothing_thinking",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "embarrassment",
+      "disgust",
+      "sadness",
+      "nervousness"
+    ],
+    "advice_text": "It's completely understandable to slip into all-or-nothing thinking, especially when you care deeply about the outcome. Wanting to do well is human. But you don’t need to be perfect to be worthy or capable. You’re learning, improving, and showing up—and that matters far more than flawless execution."
+  },
+  {
+    "id": "advice_018",
+    "type": "therapeutic_advice",
+    "issue": "all_or_nothing_thinking",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "disgust",
+      "sadness",
+      "nervousness"
+    ],
+    "advice_text": "Journaling prompt: 'Where in my life do I treat progress as failure unless it’s perfect? What tiny microshift—1% better—could I practice this week to break the all-or-nothing cycle?' Consider what beliefs drive the pressure to be perfect and where they might have originated. Explore how your life would change if “good enough” was actually good enough."
+  },
+  {
+    "id": "advice_019",
+    "type": "therapeutic_advice",
+    "issue": "shame",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "embarrassment",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Shame often tells a story that you are fundamentally flawed rather than that you made a mistake. Start by separating behavior from identity: name the action that caused distress rather than labeling yourself. Practice brief reality-checks: ask, 'Would I say this about a close friend?' This creates cognitive distance and weakens shame's power."
+  },
+  {
+    "id": "advice_020",
+    "type": "therapeutic_advice",
+    "issue": "shame",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "embarrassment",
+      "remorse",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Use the 'externalize-and-reframe' technique. When a shame thought appears, write it down as: 'I am having the thought that ____.' Then list two alternative, evidence-based views of the situation (facts, context, intent). Follow with one reparative action if needed (apology, fix, boundary), and one self-care action to restore balance. These concrete steps move you from immersed shame to actionable repair and recovery."
+  },
+  {
+    "id": "advice_021",
+    "type": "therapeutic_advice",
+    "issue": "shame",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "embarrassment",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Extreme thought: 'I am a terrible person for what I did.' Reframe: 'I made a mistake in this situation; this action does not define my entire character. I can learn and make amends if necessary.' Add evidence: list previous examples where you acted kindly or competently to balance the global judgment."
+  },
+  {
+    "id": "advice_022",
+    "type": "therapeutic_advice",
+    "issue": "shame",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "embarrassment",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Feeling ashamed is a painful but common human experience—it signals you care about how you relate to others. That feeling does not mean you are irredeemable. It means you notice a gap between your values and your actions; that gap can be closed with small, honest steps."
+  },
+  {
+    "id": "advice_023",
+    "type": "therapeutic_advice",
+    "issue": "shame",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "embarrassment",
+      "remorse",
+      "sadness",
+      "insecurity"
+    ],
+    "advice_text": "Journaling prompt: 'When did I most recently feel ashamed? What exactly happened, what did I tell myself about it, and what evidence contradicts the global story I’m telling? What is one small reparative step I could take, and what self-care will I use while I take it?'"
+  },
+  {
+    "id": "advice_024",
+    "type": "therapeutic_advice",
+    "issue": "self_doubt",
+    "sub_type": "confidence_building_foundation",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "disappointment",
+      "confusion"
+    ],
+    "advice_text": "Self-confidence is not something you find—it's something you build through action. As Brianna Wiest emphasizes, confidence comes from taking small, consistent steps toward your goals despite fear and self-doubt, not from waiting for perfect moments or external validation. You don't need to feel ready to start. The most common misconception is that confidence must come before action, but the truth is reversed: action builds confidence. When you take a step forward despite uncertainty, you prove to yourself that you're capable. Each small victory—whether it's speaking up in a meeting, trying something new, or simply showing up—reinforces your belief in yourself. Your brain learns through experience, not theory. If you wait until you feel confident, you'll wait forever. Instead, act as if you're already the person you want to become. This isn't fake—it's practice. As you repeatedly take action despite self-doubt, your brain begins to recognize these situations as safe, and your confidence naturally follows. Remember: you're not broken for having self-doubt. It's a normal part of being human, especially when you're growing and stretching beyond your comfort zone. The key is to move forward anyway."
+  },
+  {
+    "id": "advice_025",
+    "type": "therapeutic_advice",
+    "issue": "self_doubt",
+    "sub_type": "cbt_cognitive_restructuring",
+    "emotions": [
+      "nervousness",
+      "disappointment",
+      "remorse",
+      "sadness"
+    ],
+    "advice_text": "People with self-doubt often have a relentless inner critic that reinforces limiting beliefs about their capabilities. This critical inner voice might say things like 'You're not good enough,' 'You'll fail,' or 'Everyone can see you're incompetent.' CBT teaches that low self-confidence is often based on unhelpful or untrue interpretations of situations. Here's how to challenge these thoughts: First, become aware of your negative self-talk. Write down the specific thoughts contributing to your self-doubt. Notice when they arise and what triggers them. Second, examine the evidence. Ask yourself: What actual evidence do I have that supports this self-doubting thought? Have there been instances where I proved these thoughts wrong? Are my standards for judging my abilities realistic and fair? How might someone else view this situation? What would I say to a friend who had similar thoughts? Third, reframe the thought. If your mind says 'I'll never be able to do this,' challenge it by asking 'What if I give it a try and it turns out better than I expect?' Replace 'I'm not good at my job' with 'I'm learning and improving, and I've successfully completed tasks before.' Fourth, practice positive self-talk. Counter negative thoughts with realistic, compassionate statements like 'I can do this' or 'I'm capable of learning.' The goal isn't toxic positivity—it's balanced, evidence-based thinking. Your thoughts shape your identity, so speak to yourself like you would to someone you care about."
+  },
+  {
+    "id": "advice_026",
+    "type": "therapeutic_advice",
+    "issue": "self_doubt",
+    "sub_type": "understanding_roots",
+    "emotions": [
+      "sadness",
+      "confusion",
+      "disappointment",
+      "realization"
+    ],
+    "advice_text": "Self-doubt often has deep roots in early life experiences. If you grew up hearing 'you're not good enough' or 'why can't you be more like your sibling,' those messages may have become the voice in your head questioning whether you deserve good things. Childhood experiences of criticism, unrealistic expectations, or lack of emotional support can create lasting insecurities that persist into adulthood. Understanding where your self-doubt comes from is pivotal because it enables you to address these feelings more effectively. Begin by identifying the specific beliefs contributing to your sense of inadequacy. Reflect on the situations that amplify these doubts and the narrative you tell yourself about your abilities. Ask yourself: When did I first start thinking these thoughts about myself? What experiences reinforced these beliefs? Whose voice am I really hearing when I criticize myself? This awareness doesn't excuse the doubt, but it contextualizes it—you're not fundamentally flawed; you're carrying messages that were never true. Self-doubt isn't a character defect; it's often a learned response to past experiences. The beautiful thing about learned behaviors is that they can be unlearned and replaced with healthier patterns. You can give yourself now what you didn't receive then: validation, encouragement, and belief in your inherent capabilities. By understanding that your self-doubt is a protective mechanism from past wounds rather than an accurate reflection of your worth, you can begin to separate your true capabilities from outdated beliefs."
+  },
+  {
+    "id": "advice_027",
+    "type": "therapeutic_advice",
+    "issue": "self_doubt",
+    "sub_type": "behavioral_activation",
+    "emotions": [
+      "nervousness",
+      "fear",
+      "approval"
+    ],
+    "advice_text": "The final step in building confidence is to take action and put your new mindset into practice. This might mean saying 'no' to something you don't want to do, speaking up in a meeting, or trying something you've been avoiding. It's important to remember that you might not get it right every time, but that's okay—the important thing is that you're taking action and making progress. Start by setting small, achievable goals. If self-doubt makes tasks feel overwhelming, break them down. Instead of 'become more confident,' try 'introduce myself to one new person this week' or 'share one idea in today's meeting.' When you achieve a goal, it reinforces the positive message that you can do things and that you are capable. Each small victory releases dopamine and bolsters your mood. Build on your successes incrementally. Embrace vulnerability as strength, not weakness. As Brené Brown says, vulnerability is not about oversharing or being reckless—it's about having the courage to show up and be seen when you can't control the outcome. When you allow yourself to be imperfect, you give yourself permission to grow. Additionally, focus on your strengths. By spending time doing things you're already good at, you get even better at them and your confidence grows. Make a list of your accomplishments, skills, and positive qualities. When self-doubt creeps in, refer back to this evidence of your competence. Remember: confidence isn't the absence of self-doubt—it's acting despite the doubt. Every time you choose courage over comfort, you build the neural pathways that make confidence your default setting."
+  },
+  {
+    "id": "advice_028",
+    "type": "therapeutic_advice",
+    "issue": "self_sabotage",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "insecurity",
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "Self-sabotage is rarely a lack of discipline—it is a form of self-protection rooted in old emotional learning. Your nervous system labels unfamiliar success as unsafe because it conflicts with long-standing internal narratives about who you are allowed to be. Begin by identifying your 'upper limits': moments when things start going well and you feel an urge to withdraw, delay, or destroy momentum. Instead of fighting the urge, name it: 'My nervous system is reacting to unfamiliar growth.' This reduces shame and increases cognitive distance. Then ask: 'What fear is this behavior trying to protect me from—failure, rejection, responsibility, visibility?' The goal is not to eliminate resistance but to learn from it as information about where your identity no longer matches your future."
+  },
+  {
+    "id": "advice_029",
+    "type": "therapeutic_advice",
+    "issue": "self_sabotage",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "fear",
+      "anxiety",
+      "insecurity"
+    ],
+    "advice_text": "Use the 'micro-permission' technique. When you notice a sabotaging impulse—procrastinating, avoiding, oversleeping, or numbing—pause for 10 seconds and acknowledge the urge without acting on it: 'I feel the pull to avoid this because it represents growth.' Then choose one micro-action that keeps momentum alive: send one message, read one paragraph, open one tab. Micro-actions calm the amygdala by proving the task is safe. Pair this with 'identity anchoring': write a short sentence describing the version of yourself that your sabotaging behaviors are trying to block (e.g., 'I am someone who follows through.'), and act in alignment with that identity for two minutes. Repetition rewires the self-concept that self-sabotage tries to protect."
+  },
+  {
+    "id": "advice_030",
+    "type": "therapeutic_advice",
+    "issue": "self_sabotage",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "fear",
+      "insecurity"
+    ],
+    "advice_text": "Extreme thought: 'I ruin everything I start.' Reframe: 'My sabotage is not incompetence—it is a defensive pattern trying to keep me aligned with an old identity. I can change the pattern by changing the identity it is protecting.' Another example: instead of 'I can’t stay consistent,' shift to 'My inconsistency signals where my emotional safety system feels threatened. I can build safety slowly rather than forcing discipline.' This reframing turns sabotage from a character flaw into a message about unmet emotional needs."
+  },
+  {
+    "id": "advice_031",
+    "type": "therapeutic_advice",
+    "issue": "self_sabotage",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "insecurity",
+      "sadness",
+      "fear"
+    ],
+    "advice_text": "It is completely understandable to sabotage things that matter to you. Your brain is wired to choose familiarity over growth—even when familiarity hurts. This doesn’t mean you are broken or lazy; it means there was a time in your life when shrinking, overthinking, or delaying kept you safe. You are not failing—you are outgrowing emotional survival strategies that once protected you. And that process takes time and compassion."
+  },
+  {
+    "id": "advice_032",
+    "type": "therapeutic_advice",
+    "issue": "self_sabotage",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "insecurity",
+      "fear"
+    ],
+    "advice_text": "Journaling prompt: 'When things begin to go well, what emotions arise—fear, skepticism, discomfort? What version of myself do I feel unprepared to become? What need is my sabotage protecting—predictability, safety, control? What is one micro-action I can take that signals to my nervous system that growth is safe?'"
+  },
+  {
+    "id": "advice_033",
+    "type": "therapeutic_advice",
+    "issue": "unhealthy_coping_mechanisms",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "fear",
+      "anxiety",
+      "insecurity"
+    ],
+    "advice_text": "Unhealthy coping mechanisms—numbing, avoidance, people-pleasing, overworking, withdrawing—are not evidence of weakness. They are learned protective strategies created long before you had better tools. From a neuroscience perspective, these behaviors function as 'regulators' that temporarily lower emotional intensity by activating survival pathways in the limbic system. The real issue isn't the coping behavior itself, but the emotional dysregulation underneath it. Begin by identifying the trigger: what emotion, situation, or memory makes the coping strategy feel necessary? Labeling the emotion reduces limbic activation and increases prefrontal control, shifting you from reaction to awareness. The goal is not to stop the behavior instantly—it is to understand what it is protecting and build healthier regulation options slowly."
+  },
+  {
+    "id": "advice_034",
+    "type": "therapeutic_advice",
+    "issue": "unhealthy_coping_mechanisms",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "anxiety",
+      "sadness",
+      "fear"
+    ],
+    "advice_text": "Use the 'urge-surfing protocol' to break unhealthy coping patterns. Step 1: When the urge to numb, avoid, or escape appears, pause and identify the sensation (tightness, heat, restlessness). Step 2: Name the underlying emotion without trying to fix it ('This is fear,' 'This is overwhelm'). Step 3: Set a 90-second timer and let the emotion rise, peak, and fall—this follows the natural neurochemical cycle of an emotional wave. Step 4: Replace the coping behavior with a regulated alternative: grounding, brief movement, paced breathing, or writing down what the urge is trying to protect you from. This retrains the nervous system to tolerate discomfort and separates the urge from the behavior that usually follows."
+  },
+  {
+    "id": "advice_035",
+    "type": "therapeutic_advice",
+    "issue": "unhealthy_coping_mechanisms",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "insecurity",
+      "fear"
+    ],
+    "advice_text": "Extreme thought: 'I always cope in unhealthy ways, so something must be wrong with me.' Reframe: 'My coping mechanisms reveal where I learned to survive, not where I am destined to stay. They are outdated solutions, not personal failures.' Another example: instead of 'This is just who I am,' shift to 'This is who I became when I didn’t have better tools. Now I am learning new ones.' This reframing aligns with identity rewiring—the foundation of lasting behavioral change."
+  },
+  {
+    "id": "advice_036",
+    "type": "therapeutic_advice",
+    "issue": "unhealthy_coping_mechanisms",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "sadness",
+      "fear",
+      "insecurity"
+    ],
+    "advice_text": "It makes sense that you rely on coping mechanisms that feel familiar—even if they aren’t good for you. These behaviors were formed in seasons when emotional overwhelm was too much for you to carry alone. You weren’t weak; you were adapting. Healing means replacing protection with presence, and that takes time. You deserve patience, not punishment."
+  },
+  {
+    "id": "advice_037",
+    "type": "therapeutic_advice",
+    "issue": "unhealthy_coping_mechanisms",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "Journaling prompt: 'What situations trigger my unhealthy coping behaviors? What emotion is underneath that urge—fear, sadness, overwhelm, insecurity? What need is the coping mechanism trying to protect (comfort, safety, validation, control)? What healthier regulation strategy can meet that same need without harming me?'"
+  },
+  {
+    "id": "advice_038",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "anxiety",
+      "fear",
+      "sadness"
+    ],
+    "advice_text": "Emotional regulation is not about suppressing emotions—it is about increasing your capacity to stay present with them long enough to understand what they are signaling. Neuroscience shows that emotions are rapid chemical surges lasting 60–90 seconds unless they are extended by rumination or resistance. The more you push an emotion away, the more activated your limbic system becomes. Begin with emotional labeling: name the feeling precisely ('fear,' 'shame,' 'disappointment,' 'overwhelm'). Research shows this decreases amygdala activity and increases prefrontal clarity. Instead of assuming the emotion is a problem, ask: 'What need is this emotion pointing toward—safety, support, rest, connection, reassurance?' Regulation begins with permission rather than control."
+  },
+  {
+    "id": "advice_039",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "anxiety",
+      "fear",
+      "sadness"
+    ],
+    "advice_text": "Use the 'body-first method' for regulation. Step 1: Slow your breathing to a 4–6 cycle—inhale for 4 seconds, exhale for 6. This activates the vagus nerve and reduces sympathetic arousal. Step 2: Notice where your body is contracting (jaw, throat, chest, stomach). Place your hand on that area to provide sensory grounding. Step 3: Move the emotion through your body: shake your hands, stretch your neck, pace slowly, or use somatic release (deep sigh, loosening posture). Emotional dysregulation often comes from physical constriction; addressing the body first calms the nervous system faster than cognitive strategies. This mirrors Brianna Wiest’s concept of learning to 'feel through' discomfort instead of intellectualizing it."
+  },
+  {
+    "id": "advice_040",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "anxiety",
+      "sadness"
+    ],
+    "advice_text": "Extreme thought: 'I can’t control my emotions; they’re too intense.' Reframe: 'My emotional intensity reflects sensitivity, not instability. I can regulate my emotions by regulating my body and interpreting the signal underneath the feeling.' Another reframe: instead of 'I shouldn’t feel this way,' shift to 'This feeling is data, not a verdict. It is telling me what matters, what hurts, or what needs attention.' Emotional regulation grows from curiosity, not suppression."
+  },
+  {
+    "id": "advice_041",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "sadness",
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "It makes complete sense that your emotions feel overwhelming at times. No one was born knowing how to regulate complex emotional states—these skills are learned, not innate. The fact that you are trying to understand your feelings instead of fighting them is already a sign of growth. You don’t need to be perfectly regulated to be healing; you just need to stay curious, gentle, and willing to pause."
+  },
+  {
+    "id": "advice_042",
+    "type": "therapeutic_advice",
+    "issue": "emotional_regulation",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "sadness",
+      "anxiety"
+    ],
+    "advice_text": "Journaling prompt: 'What emotion tends to overwhelm me most often? What bodily sensations accompany it? What need is this emotion trying to express—rest, certainty, reassurance, connection, boundaries, space? What is one small regulation technique I can practice the next time this emotion appears?'"
+  },
+  {
+    "id": "advice_043",
+    "type": "therapeutic_advice",
+    "issue": "emotional_validation",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "sadness",
+      "anxiety",
+      "fear",
+      "anger"
+    ],
+    "advice_text": "Emotional validation begins with allowing your internal experience to exist without judgment. Neuroscience shows that when emotions are invalidated—especially by yourself—the amygdala activates defensive pathways that intensify the feeling. But when you acknowledge an emotion with clarity ('I’m feeling anxious,' 'I’m feeling hurt'), the prefrontal cortex increases its regulatory control. Emotional validation is not agreeing with the emotion’s story. It is acknowledging the legitimacy of the feeling as a human response. As Brianna Wiest emphasizes, emotions are signals—not obstacles. The first step toward healing is letting the truth of how you feel be seen without rushing to fix, minimize, or debate it."
+  },
+  {
+    "id": "advice_044",
+    "type": "therapeutic_advice",
+    "issue": "emotional_validation",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "sadness",
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "Use the 'Name + Normalize + Nurture' method. Step 1: Name the emotion with precision ('This is fear,' 'This is disappointment,' 'This is loneliness'). Step 2: Normalize it by grounding yourself in context ('Given what I’m going through, this reaction makes sense,' or 'Anyone with a similar experience would feel this too'). Step 3: Nurture yourself by offering a supportive internal response ('It’s okay to feel this. I can be kind to myself as I move through it'). This simple protocol disrupts emotional shame and sends signals of safety to your nervous system."
+  },
+  {
+    "id": "advice_045",
+    "type": "therapeutic_advice",
+    "issue": "emotional_validation",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "sadness",
+      "insecurity",
+      "anger"
+    ],
+    "advice_text": "Extreme thought: 'I shouldn't feel this way. It's not a big deal.' Reframe: 'My emotion is valid because it reflects my needs, values, and history. The size of the trigger doesn't determine the size of the feeling.' Another example: instead of 'Other people have it worse; I’m overreacting,' shift to 'Comparison doesn't determine whether my emotions are real. What I feel deserves care, not competition.' This reframe teaches your mind that emotions don’t require justification—they require understanding."
+  },
+  {
+    "id": "advice_046",
+    "type": "therapeutic_advice",
+    "issue": "emotional_validation",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "sadness",
+      "fear",
+      "anxiety",
+      "anger"
+    ],
+    "advice_text": "It makes complete sense that you feel this way. Your emotions are responding to something important—something that matters to you, scares you, frustrates you, or overwhelms you. You don’t have to push your feelings away or minimize them. Letting yourself feel is not weakness; it’s emotional honesty. You deserve the space to sit with what is true for you right now."
+  },
+  {
+    "id": "advice_047",
+    "type": "therapeutic_advice",
+    "issue": "emotional_validation",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "sadness",
+      "anxiety"
+    ],
+    "advice_text": "Journaling prompt: 'What emotion am I experiencing right now? What triggered it? What need or value might this emotion be pointing toward? What would I say to a friend who felt this way—and how can I offer myself the same validation?'"
+  },
+  {
+    "id": "advice_048",
+    "type": "therapeutic_advice",
+    "issue": "adjustment_shock",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "anxiety",
+      "fear",
+      "confusion"
+    ],
+    "advice_text": "Adjustment shock happens when your external circumstances improve faster than your internal identity can keep up. The nervous system is wired for familiarity, not happiness—so even positive change triggers hypervigilance. You may find yourself overthinking, doubting, or pulling back. Instead of treating this reaction as a sign that something is wrong, see it as a psychological recalibration. Begin by acknowledging the gap between the version of you who survived past experiences and the version of you who now has access to better opportunities. Your mind isn't sabotaging you—it is trying to re-establish safety in the unknown."
+  },
+  {
+    "id": "advice_049",
+    "type": "therapeutic_advice",
+    "issue": "adjustment_shock",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "anxiety",
+      "fear",
+      "confusion"
+    ],
+    "advice_text": "Use the 'step into safety' technique. Step 1: Identify the exact moment the adjustment shock appears—tight chest, racing thoughts, intrusive fears. Step 2: Anchor yourself by naming what is new: 'This situation is unfamiliar, not unsafe.' Step 3: Provide your nervous system with predictability: create small, consistent routines in the new environment (morning ritual, regular meals, structured chores). Stability in micro-areas reduces threat responses in macro-areas. Step 4: Pair every new step with a grounding behavior: 10 seconds of deep breathing, stretching, or placing a hand on your chest. This teaches your body that growth and safety can coexist."
+  },
+  {
+    "id": "advice_050",
+    "type": "therapeutic_advice",
+    "issue": "adjustment_shock",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "fear",
+      "insecurity"
+    ],
+    "advice_text": "Extreme thought: 'This new phase feels uncomfortable, so maybe it’s not right for me.' Reframe: 'Discomfort doesn’t mean danger—it means expansion. My nervous system is learning something new.' Another reframe: instead of 'I’m losing control,' shift to 'My mind is reorganizing itself around a new reality. This uneasiness is the bridge between who I was and who I’m becoming.' Adjustment shock becomes easier when you interpret it as growth rather than warning."
+  },
+  {
+    "id": "advice_051",
+    "type": "therapeutic_advice",
+    "issue": "adjustment_shock",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "anxiety",
+      "fear",
+      "sadness"
+    ],
+    "advice_text": "Of course you feel unsettled—your life is changing. Even positive change asks your mind to release old beliefs, old fears, and old versions of yourself. It’s normal to feel disoriented when you step into a new season. You’re not doing anything wrong. Your nervous system is simply adjusting to a life that is finally expanding."
+  },
+  {
+    "id": "advice_052",
+    "type": "therapeutic_advice",
+    "issue": "adjustment_shock",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "anxiety",
+      "fear"
+    ],
+    "advice_text": "Journaling prompt: 'What recent change feels uncomfortable for me? What part of me is afraid of this new phase—my identity, my habits, my past experiences? What evidence do I have that this new situation is safe? What small routines or anchors can help my body feel grounded as I adjust?'"
+  },
+  {
+    "id": "advice_053",
+    "type": "therapeutic_advice",
+    "issue": "fear_of_change",
+    "sub_type": "general_strategies",
+    "emotions": [
+      "fear",
+      "anxiety",
+      "insecurity"
+    ],
+    "advice_text": "Fear of change is the brain’s natural resistance to uncertainty. The nervous system is designed to prioritize predictability over potential, which means your mind often resists change not because it is harmful, but because it is unfamiliar. Brianna Wiest describes this as the identity gap—the space between the self you’ve known and the self you’re becoming. Begin by recognizing that your fear is not a warning sign; it is a protective reflex trying to keep you within the boundaries of what you’ve historically survived. Ask yourself: 'Is this fear about danger, or about unfamiliarity?' Most change-related anxiety comes from outdated beliefs about what you can handle."
+  },
+  {
+    "id": "advice_054",
+    "type": "therapeutic_advice",
+    "issue": "fear_of_change",
+    "sub_type": "practical_techniques",
+    "emotions": [
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "Use the 'predictability anchor' method. Step 1: Identify the specific uncertainty that feels threatening. Step 2: Ground your body with slow exhalations—long exhales signal safety to the vagus nerve. Step 3: Break the change into micro-steps and schedule predictable touchpoints: meals, movement, nightly check-ins, small rituals. When your environment becomes more predictable, uncertainty becomes less overwhelming. Step 4: Write down what remains constant—your values, skills, support, character. The brain can tolerate change more easily when continuity is visible. This builds what researchers call 'cognitive safety scaffolding,' which strengthens resilience during transitions."
+  },
+  {
+    "id": "advice_055",
+    "type": "therapeutic_advice",
+    "issue": "fear_of_change",
+    "sub_type": "reframing_example",
+    "emotions": [
+      "fear",
+      "insecurity"
+    ],
+    "advice_text": "Extreme thought: 'If I don’t know exactly what will happen, I shouldn’t move forward.' Reframe: 'Uncertainty is not a threat; it is space for possibility. Safety doesn’t come from knowing the future—it comes from trusting my ability to meet it.' Another example: instead of 'This discomfort means I’m making a mistake,' shift to 'This discomfort is my nervous system adapting to a new experience. Growth often feels like fear at first because it’s unfamiliar, not because it’s wrong.'"
+  },
+  {
+    "id": "advice_056",
+    "type": "therapeutic_advice",
+    "issue": "fear_of_change",
+    "sub_type": "validation_statement",
+    "emotions": [
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "It makes complete sense that uncertainty feels scary. You’re stepping into territory without a map, and your mind is trying to keep you safe the only way it knows how—by warning you about everything that could go wrong. This fear doesn’t mean you’re incapable or unprepared. It means you’re human, and your nervous system is adjusting to something new. You’re allowed to take this slowly and gently."
+  },
+  {
+    "id": "advice_057",
+    "type": "therapeutic_advice",
+    "issue": "fear_of_change",
+    "sub_type": "journaling_prompt",
+    "emotions": [
+      "fear",
+      "anxiety"
+    ],
+    "advice_text": "Journaling prompt: 'What part of this change feels most uncertain? What am I afraid might happen? What evidence do I have that I could handle that outcome? Which strengths or past experiences prove that I am capable of adapting? What is one small step I can take to make this change feel safer?'"
   }
 ]

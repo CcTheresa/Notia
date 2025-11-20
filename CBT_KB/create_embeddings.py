@@ -20,7 +20,7 @@ print("✅ Model loaded (384-dimensional embeddings)\n")
 
 # 3. Extract text from documents
 print("📝 Extracting text from documents...")
-texts = [doc['text'] for doc in documents]
+texts = [doc.get('text') or doc.get('advice_text') for doc in documents]
 print(f"✅ Extracted {len(texts)} text chunks\n")
 
 # 4. Create embeddings
