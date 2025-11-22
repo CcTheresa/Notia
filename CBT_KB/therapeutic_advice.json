@@ -423,7 +423,7 @@
     "id": "advice_015",
     "type": "therapeutic_advice",
     "issue": "all_or_nothing_thinking",
-    "sub_issue": "fear_of_starting",
+"sub_issue": "fear_of_starting",
     "emotions": ["anxiety", "nervousness", "fear"],
     "cognitive_distortion": "all_or_nothing_thinking",
     "response_layers": {
