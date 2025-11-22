@@ -4,60 +4,48 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import os
 
-print(" Creating embeddings for CBT knowledge base...\n")
+print("🔧 Creating embeddings for layered advice...\n")
 
-# 1. Load processed data
-print(" Loading processed data...")
-with open('processed_data/all_cbt_data.json', 'r', encoding='utf-8') as f:
+# Load flattened layered advice
+print("📂 Loading flattened data...")
+with open('processed_data/flattened_layered_advice.json', 'r', encoding='utf-8') as f:
     documents = json.load(f)
 
-print(f"✅ Loaded {len(documents)} documents\n")
+print(f"✅ Loaded {len(documents)} layer records\n")
 
-# 2. Load embedding model
-print("🧠 Loading sentence transformer model...")
-model = SentenceTransformer('all-MiniLM-L6-v2')  # Fast, lightweight model
-print("✅ Model loaded (384-dimensional embeddings)\n")
+# Load model
+print("🧠 Loading sentence transformer...")
+model = SentenceTransformer('all-MiniLM-L6-v2')
+print("✅ Model loaded (384-dim)\n")
 
-# 3. Extract text from documents
-print("📝 Extracting text from documents...")
-texts = [doc.get('text') or doc.get('advice_text') for doc in documents]
-print(f"✅ Extracted {len(texts)} text chunks\n")
+# Extract text
+print("📝 Extracting text...")
+texts = [doc['text'] for doc in documents]
+print(f"✅ {len(texts)} text chunks ready\n")
 
-# 4. Create embeddings
-print("⚡ Creating embeddings (this may take 1-2 minutes)...")
+# Create embeddings
+print("⚡ Creating embeddings...")
 embeddings = model.encode(texts, show_progress_bar=True, convert_to_numpy=True)
-print(f"✅ Created embeddings with shape: {embeddings.shape}\n")
+print(f"✅ Shape: {embeddings.shape}\n")
 
-# 5. Create FAISS index
-print(" Building FAISS search index...")
-dimension = embeddings.shape[1]  # 384 for MiniLM
-index = faiss.IndexFlatL2(dimension)  # L2 distance (Euclidean)
+# Build FAISS index
+print("🔍 Building FAISS index...")
+dimension = embeddings.shape[1]
+index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
-print(f"✅ FAISS index created with {index.ntotal} vectors\n")
+print(f"✅ Index has {index.ntotal} vectors\n")
 
-# 6. Save everything
-print(" Saving embeddings and index...")
+# Save
 os.makedirs('embeddings', exist_ok=True)
+faiss.write_index(index, 'embeddings/layered_advice_faiss.index')
 
-# Save FAISS index
-faiss.write_index(index, 'embeddings/cbt_faiss.index')
-
-# Save documents metadata
-with open('embeddings/documents.json', 'w', encoding='utf-8') as f:
+with open('embeddings/layered_advice_metadata.json', 'w', encoding='utf-8') as f:
     json.dump(documents, f, indent=2, ensure_ascii=False)
 
-# Save embeddings as numpy array (optional, for backup)
-np.save('embeddings/embeddings.npy', embeddings)
+np.save('embeddings/layered_embeddings.npy', embeddings)
 
-print("\n" + "="*60)
-print("✅ EMBEDDING CREATION COMPLETE!")
-print("="*60)
-print(f" Total documents: {len(documents)}")
-print(f" Embedding dimension: {dimension}")
-print(f" Files saved:")
-print(f"   - embeddings/cbt_faiss.index (FAISS search index)")
-print(f"   - embeddings/documents.json (document metadata)")
-print(f"   - embeddings/embeddings.npy (raw embeddings)")
-print("="*60)
-
-print("\n🎉 Your knowledge base is now ready for semantic search!")
+print("="*50)
+print("✅ DONE")
+print(f"📊 {len(documents)} layer records")
+print(f"📐 {dimension}-dimensional embeddings")
+print("="*50)
