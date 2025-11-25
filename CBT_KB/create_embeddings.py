@@ -26,6 +26,8 @@ print(f"✅ {len(texts)} text chunks ready\n")
 # Create embeddings
 print("⚡ Creating embeddings...")
 embeddings = model.encode(texts, show_progress_bar=True, convert_to_numpy=True)
+embeddings = np.array(embeddings, dtype='float32')
+
 print(f"✅ Shape: {embeddings.shape}\n")
 
 # Build FAISS index
