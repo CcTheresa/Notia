@@ -5,7 +5,7 @@
 	<!--for google login-->
 	<key>GIDClientID</key>
 	<!-- TODO Replace this value: -->
-	<string>[YOUR IOS CLIENT ID]</string>
+	<string>[159584771707-kjccsme2njtod52tdkfqkc3ake1masae.apps.googleusercontent.com]</string>
 <!-- Google Sign-in Section -->
 	<key>CFBundleURLTypes</key>
 	<array>
@@ -16,7 +16,7 @@
 			<array>
 				<!-- TODO Replace this value: -->
 				<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
-				<string>com.googleusercontent.apps.861823949799-vc35cprkp249096uujjn0vvnmcvjppkn</string>
+				<string>com.googleusercontent.apps.159584771707-kjccsme2njtod52tdkfqkc3ake1masae</string>
 			</array>
 		</dict>
 	</array>
@@ -32,7 +32,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>flutter_application_2</string>
+	<string>Notia</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

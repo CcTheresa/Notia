@@ -188,4 +188,4 @@ if user_query:
         elif choice in shown_layers:
             print("\n(Already shown - pick another option)\n")
 
-print("\n✨ Layered retrieval system is working!")
+print("\n Layered retrieval system is working!")
