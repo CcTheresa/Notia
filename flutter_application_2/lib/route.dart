@@ -1,17 +1,18 @@
 import 'package:flutter/material.dart';
 
-//common navigation helper widget
 class NavigationHelper {
-  //push new screen onto stack
-  static void push(BuildContext context, Widget screen) {
-    Navigator.push(context, MaterialPageRoute(builder: (context) => screen));
+  // Push a named route (The "GPS" way)
+  static void navigateTo(BuildContext context, String routeName) {
+    Navigator.pushNamed(context, routeName);
   }
 
-  //replace current screen with new screen
-  static void pushReplacement(BuildContext context, Widget screen) {
-    Navigator.pushReplacement(
-      context,
-      MaterialPageRoute(builder: (context) => screen),
-    );
+  // Replace current screen with a named route (The "Seamless" way)
+  static void replaceWith(BuildContext context, String routeName) {
+    Navigator.pushReplacementNamed(context, routeName);
+  }
+
+  // Keep these just in case you need to pass a specific Widget manually
+  static void pushWidget(BuildContext context, Widget screen) {
+    Navigator.push(context, MaterialPageRoute(builder: (context) => screen));
   }
 }

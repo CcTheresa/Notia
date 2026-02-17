@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/features/auth/auth_screens/google_login_screen.dart';
+// import 'package:flutter_application_2/features/auth/auth_screens/google_login_screen.dart';
 import 'package:flutter_application_2/features/auth/service/auth_method.dart';
 import 'package:flutter_application_2/features/home/journal_screen.dart';
 import 'package:flutter_application_2/features/home/profile.dart';
@@ -19,7 +19,7 @@ class _AppMainScreenState extends State<AppMainScreen> {
 
   // You might later inject this via constructor/provider.
   final AdviceService adviceService = AdviceService(
-    baseUrl: 'http://10.5.63.115:8000',
+    baseUrl: 'http://192.168.100.15',
   );
 
   @override
@@ -42,10 +42,7 @@ class _AppMainScreenState extends State<AppMainScreen> {
             icon: const Icon(Icons.logout_rounded),
             onPressed: () async {
               await GoogleSigninService.signOut();
-              NavigationHelper.pushReplacement(
-                context,
-                const GoogleLoginScreen(),
-              );
+              NavigationHelper.replaceWith(context, '/login');
             },
           ),
         ],
