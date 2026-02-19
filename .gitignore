@@ -1,0 +1,18 @@
+# Python junk
+**/__pycache__/
+*.py[cod]
+*$py.class
+CBT_KB/__pycache__/
+
+# Flutter/Dart junk
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.packages
+build/
+
+# Platform-specific generated files (The ones that caused your conflict!)
+flutter_application_2/macos/Flutter/GeneratedPluginRegistrant.swift
+flutter_application_2/windows/flutter/generated_plugin_registrant.cc
+flutter_application_2/windows/flutter/generated_plugins.cmake
